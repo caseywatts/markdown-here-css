@@ -123,6 +123,7 @@ h2 {
   font-size: 1.0em;
   border-bottom: 1px solid #CCC;
   color: #0F4D92;
+  margin-top:20px;
 }
 
 h3 {
@@ -185,4 +186,15 @@ table tr th, table tr td {
 
 table tr th {
  font-weight: bold;
+}
+
+img {
+margin:20px;
+border:1px solid black;
+}
+
+/* Style the first para that's an immediate child of the wrapper (e.g., the salutation) */
+div.markdown-here-wrapper > p:first-of-type {
+ margin-left:0em;
+ margin-bottom:1.4em;
 }
