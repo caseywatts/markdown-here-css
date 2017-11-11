@@ -1,5 +1,7 @@
 Casey's custom css for Markdown-Here http://markdown-here.com/
 
+![alt text](caseys-styling-sample.png)
+
 ### Setup
 Go to the settings page for the markdown-here Chrome Extension.
 In the field "primary styling", paste-append the contents of the file `default.css` in this repo.
