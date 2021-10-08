@@ -7,22 +7,22 @@ h1 {
   display:inline-block;
   padding: 4px 15px;
   background-color: #0F4D92;
-  color: white;
+  color: #fff;
   border-radius: 40px 10px 40px 10px;
   font-weight:normal;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   font-variant: small-caps;
 }
 
 h2 {
   font-size: 1.0em;
-  border-bottom: 1px solid #CCC;
+  border-bottom: 1px solid #ddd;
   color: #0F4D92;
   margin-top:20px;
 }
 
 h3 {
-  font-size: 1.2em;
+  font-size: 1.4em;
   color: #0F4D92;
 }
 
@@ -38,7 +38,7 @@ h5 {
 
 h6 {
   font-size: 1em;
-  color: #777;
+  color: #333;
 }
 
 /* Casey's image customizations */
